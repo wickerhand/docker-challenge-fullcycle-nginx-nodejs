@@ -10,4 +10,4 @@ Para subir o container, navegue no seu terminal até o caminho que se encontra a
 
 Rode o comando: `docker-compose up -d`
 
-Após os containers serem montados, no seu navegador acesse o link: [http://localhost:8080]
+Após os containers serem montados, no seu navegador acesse o link: [http://localhost:8080](http://localhost:8080)
